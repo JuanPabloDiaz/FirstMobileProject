@@ -6,8 +6,7 @@ This repo is part of a Platzi course called: "[Curso de Responsive Design: Maque
 
 50% of internet traffic is from mobile devices, making it a priority to develop frontends for smartphones, tablets and laptops. In this course I learned everything I needed to create projects that will adapt to the different views used by the users.
 
-## Challenge 🎲
-text
+[SITE DEMO](https://jpdiaz.dev/firstMobileProject/)
 
 <!-- BUILD WITH -->
 
