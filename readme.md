@@ -20,7 +20,11 @@ This class is based on Hyper Text Markup Language (HTML) and Cascading Style She
     <a href="https://www.w3.org/TR/CSS/#css">CSS</a>
     ·
     <a href="https://www.javascript.com/">JS</a>
-    </p>
+</p>
+
+### Lighthouse Score 🚀
+
+<img src="./assets/img/lighthouse.png" />
 
 <!-- CONTENT -->
 
